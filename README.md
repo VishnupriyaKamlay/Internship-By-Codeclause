@@ -16,4 +16,4 @@ All non-empty subset of frequent itemset must be frequent. The key concept of Ap
 
 All subsets of a frequent itemset must be frequent(Apriori property).
 If an itemset is infrequent, all its supersets will be infrequent.</p> 
-<p>Source: GeeksforGeeks</p>
+
